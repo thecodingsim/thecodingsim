@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **thecodingsim@gmail.com**
 
-- ⚡ Fun fact **I like to create 3D models**
+- ⚡ Fun fact **I like to create 3D models in Blender**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
