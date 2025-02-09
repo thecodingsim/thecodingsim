@@ -7,7 +7,7 @@
 
 - 📍 **Currently based in Washington**
 
-- 🌱 **Software Specialist**
+- 🌱 **Full-Time Software Specialist**
 
 - 📫 How to reach me **thecodingsim@gmail.com**
 
