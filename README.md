@@ -1,11 +1,11 @@
 ![MasterHead](https://s3.amazonaws.com/algoworksupload/new-algoworks/wp-content/uploads/2016/05/18052646/stm_banner.gif)
 
 <h1 align="center">Hi 👋, I'm Joanne</h1>
-<h3 align="center">A trailblazing, front-end focused, full stack developer from California</h3>
+<h3 align="center">A trailblazing, data focused, full stack developer from California</h3>
 
 <img align="right" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="woman coding gif">
 
-- 🌱 I’m currently looking for a **entry-level position in software engineering**
+- 🌱 Software Specialist**
 
 - 📫 How to reach me **thecodingsim@gmail.com**
 
